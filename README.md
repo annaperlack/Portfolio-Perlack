@@ -15,7 +15,7 @@ My porfolio highlights a recently completed project that I completed while enrol
 
 [website](https://annaperlack.github.io/Portfolio-Perlack/)
 
-![screenshot]()
+![screenshot](assests/images/screenshot.png)
 
 ## Credits
 
