@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
 }
-
+/* porfolio color palette */
 :root {
   --pink-lavender:#DCB8CB;
   --lavender:#D5C9DF;
@@ -232,6 +232,7 @@ nav a {
     background-image: url("../images/ot-flashcards.jpg");
   }
 
+  /* media querey */
   @media screen and (max-width: 980px) {
     header {
       padding: 0 0 10px 0;
