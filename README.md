@@ -13,7 +13,7 @@ N/A
 My porfolio highlights a recently completed project that I completed while enrolled in OSU's Full-Stack Web Development Bootcamp. If you click the Refactoring-SEO picture then it will take you to the completed website. To view the refactored code, open the Chrome DevTools by pressing Command+Option+I for MacOS or Control+Shift+I for Windows. A console panel should open in the brower then you can scroll through to view the updated HTML and CSS code. The porfolio also highlights future project ideas. The user can be linked to my GitHub, Linkedin, email address, resume, and phone number by clicking on the available links.
 
 
-[website]()
+[website](https://annaperlack.github.io/Portfolio-Perlack/)
 
 ![screenshot]()
 
